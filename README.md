@@ -18,3 +18,7 @@ Sample website with plenty of files for demos
 
 Use it any way you want.
 Authored by: utkarshg6
+
+## How to Contribute
+
+Please fork this repository before creating pull request for review.
