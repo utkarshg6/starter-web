@@ -17,4 +17,4 @@ Sample website with plenty of files for demos
 ## Copyleft
 
 Use it any way you want.
-Authore by: utkarshg6
+Authored by: utkarshg6
