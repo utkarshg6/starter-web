@@ -13,3 +13,7 @@ Deployment can be done on any web-server.
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+2020 utkarshg6
