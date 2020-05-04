@@ -14,6 +14,7 @@ Deployment can be done on any web-server.
 
 Sample website with plenty of files for demos
 
-## Copyright
+## Copyleft
 
-2020 utkarshg6
+Use it any way you want.
+Authore by: utkarshg6
