@@ -16,7 +16,7 @@ Sample website with plenty of files for demos
 
 ## Copyleft
 
-Use it any way you want.
+Use it any way you want. No rights reserved.
 Authored by: utkarshg6
 
 ## How to Contribute
