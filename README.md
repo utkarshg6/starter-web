@@ -25,4 +25,4 @@ Please fork this repository before creating pull request for review.
 
 ## Operation
 
-Updating a fix after stash.
+Making changes for Multiple Stash Example.
