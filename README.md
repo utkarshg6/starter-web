@@ -22,7 +22,3 @@ Authored by: utkarshg6
 ## How to Contribute
 
 Please fork this repository before creating pull request for review.
-
-## Operation
-
-Making changes for Multiple Stash Example.
